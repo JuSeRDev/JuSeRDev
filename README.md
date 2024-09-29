@@ -43,7 +43,7 @@ Además, me gusta participar en comunidades en línea donde se comparten recurso
 
 ## 📫 Contacto
 Puedes contactarme a través de:
-- Correo electrónico: [juansebastianrodriguezr@gmail.com](mailto:juansebastianrodriguezr@gmail.com)
+- Correo electrónico: [juserdev@gmail.com](mailto:juserdev@gmail.com)
 - [Enlace a redes sociales] (puedes agregar tus perfiles aquí, como LinkedIn o Twitter)
 
 ---
